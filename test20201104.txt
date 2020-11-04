@@ -1,1 +1,9 @@
 using github desktop to comminute with github webserver
+
+this kind of editor makes me feel good
+
+next
+
+try to using github in Rstudio
+
+and upload some R scripts for others to use them
